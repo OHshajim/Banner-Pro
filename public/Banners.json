@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "title": "Summer Sale",
+    "description": "Get up to 50% off on summer collections.",
+    "cta": "Shop Now",
+    "image": "https://bannerbot-public.s3.ap-south-1.amazonaws.com/templates/1/square.png",
+    "background": "https://bannerbot-public.s3.ap-south-1.amazonaws.com/templates/9/square.png"
+  },
+  {
+    "id": 2,
+    "title": "New Arrivals",
+    "description": "Check out the latest additions to our store.",
+    "cta": "Explore",
+    "image": "https://bannerbot-public.s3.ap-south-1.amazonaws.com/templates/1/square.png",
+    "background": "https://bannerbot-public.s3.ap-south-1.amazonaws.com/templates/4/square.png"
+  },
+  {
+    "id": 3,
+    "title": "Winter Collection",
+    "description": "Stay warm with our exclusive winter collection.",
+    "cta": "Browse",
+    "image": "https://bannerbot-public.s3.ap-south-1.amazonaws.com/templates/1/square.png",
+    "background": "https://bannerbot-public.s3.ap-south-1.amazonaws.com/templates/6/square.png"
+  },
+  {
+    "id": 4,
+    "title": "Flash Sale",
+    "description": "Limited time offer! Up to 70% off.",
+    "cta": "Buy Now",
+    "image": "https://bannerbot-public.s3.ap-south-1.amazonaws.com/templates/1/square.png",
+    "background": "https://bannerbot-public.s3.ap-south-1.amazonaws.com/templates/7/square.png"
+  },
+  {
+    "id": 5,
+    "title": "Exclusive Offer",
+    "description": "Members get an extra 20% off.",
+    "cta": "Join Now",
+    "image": "https://bannerbot-public.s3.ap-south-1.amazonaws.com/templates/1/square.png",
+    "background": "https://bannerbot-public.s3.ap-south-1.amazonaws.com/templates/8/square.png"
+  },
+  {
+    "id": 6,
+    "title": "Back to School",
+    "description": "Up to 30% off on school supplies.",
+    "cta": "Shop Supplies",
+    "image": "https://bannerbot-public.s3.ap-south-1.amazonaws.com/templates/1/square.png",
+    "background": "https://bannerbot-public.s3.ap-south-1.amazonaws.com/templates/10/square.png"
+  },
+  {
+    "id": 7,
+    "title": "Travel Gear",
+    "description": "Discover the best gear for your next adventure.",
+    "cta": "Discover",
+    "image": "https://bannerbot-public.s3.ap-south-1.amazonaws.com/templates/1/square.png",
+    "background": "https://bannerbot-public.s3.ap-south-1.amazonaws.com/templates/11/square.png"
+  },
+  {
+    "id": 8,
+    "title": "Fitness Sale",
+    "description": "Up to 40% off on fitness equipment.",
+    "cta": "Get Fit",
+    "image": "https://bannerbot-public.s3.ap-south-1.amazonaws.com/templates/1/square.png",
+    "background": "https://bannerbot-public.s3.ap-south-1.amazonaws.com/templates/12/square.png"
+  }
+]
