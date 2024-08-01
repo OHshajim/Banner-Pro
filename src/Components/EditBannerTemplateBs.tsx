@@ -13,7 +13,7 @@ const EditBannerTemplateBs = ({
 }) => {
   const [editedBanner, setEditedBanner] = useState(banner);
 
-  const handleChange = (e) => {
+  const handleChange = (e: { target: { name: any; value: any; }; }) => {
     const { name, value } = e.target;
     console.log(name, value);
 
