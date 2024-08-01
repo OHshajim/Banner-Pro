@@ -4,7 +4,7 @@
     "title": "Summer Sale",
     "description": "Get up to 50% off on summer collections.",
     "cta": "Shop Now",
-    "image": "https://bannerbot-public.s3.ap-south-1.amazonaws.com/templates/1/square.png",
+    "image": "https://i.ibb.co/y5tff44/team01.jpg",
     "background": "https://bannerbot-public.s3.ap-south-1.amazonaws.com/templates/9/square.png"
   },
   {
@@ -12,7 +12,7 @@
     "title": "New Arrivals",
     "description": "Check out the latest additions to our store.",
     "cta": "Explore",
-    "image": "https://bannerbot-public.s3.ap-south-1.amazonaws.com/templates/1/square.png",
+    "image": "https://i.ibb.co/Gt3whQK/team04.jpg",
     "background": "https://bannerbot-public.s3.ap-south-1.amazonaws.com/templates/4/square.png"
   },
   {
@@ -20,7 +20,7 @@
     "title": "Winter Collection",
     "description": "Stay warm with our exclusive winter collection.",
     "cta": "Browse",
-    "image": "https://bannerbot-public.s3.ap-south-1.amazonaws.com/templates/1/square.png",
+    "image": "https://i.ibb.co/wMztRdq/team03.jpg",
     "background": "https://bannerbot-public.s3.ap-south-1.amazonaws.com/templates/6/square.png"
   },
   {
@@ -28,7 +28,7 @@
     "title": "Flash Sale",
     "description": "Limited time offer! Up to 70% off.",
     "cta": "Buy Now",
-    "image": "https://bannerbot-public.s3.ap-south-1.amazonaws.com/templates/1/square.png",
+    "image": "https://i.ibb.co/3N4vC6R/team02.jpg",
     "background": "https://bannerbot-public.s3.ap-south-1.amazonaws.com/templates/7/square.png"
   },
   {
@@ -36,7 +36,7 @@
     "title": "Exclusive Offer",
     "description": "Members get an extra 20% off.",
     "cta": "Join Now",
-    "image": "https://bannerbot-public.s3.ap-south-1.amazonaws.com/templates/1/square.png",
+    "image": "https://i.ibb.co/y5tff44/team01.jpg",
     "background": "https://bannerbot-public.s3.ap-south-1.amazonaws.com/templates/8/square.png"
   },
   {
@@ -44,7 +44,7 @@
     "title": "Back to School",
     "description": "Up to 30% off on school supplies.",
     "cta": "Shop Supplies",
-    "image": "https://bannerbot-public.s3.ap-south-1.amazonaws.com/templates/1/square.png",
+    "image": "https://i.ibb.co/Gt3whQK/team04.jpg",
     "background": "https://bannerbot-public.s3.ap-south-1.amazonaws.com/templates/10/square.png"
   },
   {
@@ -52,7 +52,7 @@
     "title": "Travel Gear",
     "description": "Discover the best gear for your next adventure.",
     "cta": "Discover",
-    "image": "https://bannerbot-public.s3.ap-south-1.amazonaws.com/templates/1/square.png",
+    "image": "https://i.ibb.co/wMztRdq/team03.jpg",
     "background": "https://bannerbot-public.s3.ap-south-1.amazonaws.com/templates/11/square.png"
   },
   {
@@ -60,7 +60,7 @@
     "title": "Fitness Sale",
     "description": "Up to 40% off on fitness equipment.",
     "cta": "Get Fit",
-    "image": "https://bannerbot-public.s3.ap-south-1.amazonaws.com/templates/1/square.png",
+    "image": "https://i.ibb.co/y5tff44/team01.jpg",
     "background": "https://bannerbot-public.s3.ap-south-1.amazonaws.com/templates/16/square.png"
   }
 ]
