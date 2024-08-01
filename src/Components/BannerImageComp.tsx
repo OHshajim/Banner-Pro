@@ -1,13 +1,15 @@
-import React from "react";
+import React, { useState } from "react";
 import Image from "next/image";
 import { FaPen } from "react-icons/fa";
 
 const BannerImageComp = ({
   banner,
   onEdit,
+  isEdit,
 }: {
   banner: any;
-  onEdit: () => void;
+  isEdit: any;
+  onEdit: any;
 }) => {
   return (
     <div
@@ -17,9 +19,11 @@ const BannerImageComp = ({
       }}
     >
       <div className="absolute top-2 right-2">
-        <button onClick={onEdit} className="btn btn-ghost  text-xl">
-          <FaPen />
-        </button>
+        {isEdit && (
+          <button onClick={onEdit} className="btn btn-ghost  text-xl text-white">
+            <FaPen />
+          </button>
+        )}
       </div>
       <div className="flex justify-between ">
         <div className="flex flex-col  text-white">
